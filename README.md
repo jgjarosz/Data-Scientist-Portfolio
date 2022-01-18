@@ -1,6 +1,6 @@
 # Data-Scientist-Portfolio
 
-Samples of my analyses that demonstrate different skillsets, from EDA to data visualization and machine learning.
+Samples of my analyses that demonstrate different skillsets such as EDA, hypothesis testing, data visualization, and machine learning model construction & evaluation. These projects are not intended to be exhaustive end-to-end analyses, but to be sufficient to showcase my skill levels with both Python and an analytical mindset.
 
 
 
