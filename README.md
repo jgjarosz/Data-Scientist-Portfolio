@@ -1,6 +1,6 @@
 # Data-Scientist-Portfolio
 
-Samples of my analyses that demonstrate different skillsets such as EDA, hypothesis testing, data visualization, and machine learning model construction & evaluation. These projects are not intended to be exhaustive end-to-end analyses, but to be sufficient to showcase my skill levels with both Python and an analytical mindset.
+Samples of my analyses that demonstrate different skillsets such as EDA, hypothesis testing, data visualization, and machine learning model construction & evaluation. These projects are not intended to be exhaustive end-to-end analyses, but to be sufficient to showcase my skill levels with both Python programming, statistical analysis, and machine learning model creation/tuning/evaluation.
 
 
 
@@ -10,7 +10,7 @@ RAMEN RATINGS
     
 - Description: This dataset contains 2580 records of ramen ratings. It has features of Brand, Country, and Style,, with an output of a Stars (1-5 stars) rating. Follow the Kaggle link for more details.
 
-- Skills demonstrated: data manipulation with Pandas, EDA, data visualization with Matplotlib and Seaborn, normality assessment, hypothesis testing, and algorithmic thinking (see the section on Wilcoxon Rank-Sum for a pair-generating algorithm).
+- Skills demonstrated: data manipulation with Pandas, EDA, data visualization with Matplotlib and Seaborn, normality assessment, hypothesis testing, and algorithmic thinking (see the section on Wilcoxon Rank-Sum for a performance-optimized pair-generating algorithm).
 
 
 
